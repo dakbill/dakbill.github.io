@@ -6,14 +6,14 @@ permalink: /about/
 
 ##HI, MY NAME IS KOFI DWOMOH-ABABIO
 
-I'm the Pharisee named Nicodemus for the digital age. I like to ask questions on how to realize any goal.
+You can liken me unto the Pharisee named Nicodemus. Why?. I love asking the question,"How can i do what you just did? ".
 
 ##FACTS ABOUT ME
 * I'm a Christian.
 * I'm an alumnus of Saint Anthony's School, Prempeh College, University of Ghana and ...
 * I develop for fun.
 * I suffer from developer paranoia.
-* I'm fascinated by artificial intelligence.
+* I'm Artificial Intelligence.
 
 ##SKILL SET
 
