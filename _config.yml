@@ -1,0 +1,16 @@
+# Site settings
+title: Yet Another Blog
+email: taichobill@gmail.com
+description: > 
+  Ask and it shall be given unto you.
+  Seek and you shall find.
+  Knock and the door shall be opened unto you.
+  Give and you shall get.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dakbill.github.io" # the base hostname & protocol for your site
+twitter_username: dakbill
+github_username:  dakbill
+
+
+# Build settings
+markdown: kramdown
