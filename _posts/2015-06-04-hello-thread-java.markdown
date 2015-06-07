@@ -4,11 +4,11 @@ title:  "Hello Thread! (JAVA)"
 date:   2015-06-04 15:30:06
 categories: java console
 ---
-In this post i describe how to implement threads in java. A thread is the basic unit of execution for any program. Threads are used to acheive concurrency in program execution. For instance, in a browser, two threads can be used to support streaming music composing an email concurrently.
+In this post i describe how to implement threads in java. A thread is the basic unit of execution for any program. Threads are used to acheive concurrency in program execution. For instance, in a browser, two threads can be used to support streaming music and composing an email concurrently.
 
 In java there are two idioms for creating threads. Extending the Thread class or implementing the Runnable interface.
 
-The snippet below show both implementations in one java console application:
+The snippet below shows both implementations in one java console application:
 
 {% highlight java %}
 
