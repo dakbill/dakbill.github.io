@@ -51,7 +51,7 @@ I am a trained and experienced software application developer. I have proven my 
 The arrangement above is in order of strength and recent use.
 
 #### Computer troubleshooting and Minor repairs
-As part of my training I was taken through hardware, software and network troubleshooting and have applied these skills in internship and some mini projects of my own.
+As part of my training I was taken through hardware and software troubleshooting and have applied these skills in internship and some mini projects of my own.
 
 #### Digital Art
 Even though I am not an excellent artist, I have some experience in using applications that are tailored towards digital art. Some of these are Adobe Photoshop and Rhino.
