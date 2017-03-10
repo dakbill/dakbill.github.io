@@ -71,7 +71,7 @@ During my spare time I also try to experiment with sound engineering and so I le
 ### Portfolio
 
 #### [Veryfi](https://veryfi.herokuapp.com)
-As a **team** designed a food and drugs verification system which validates user queries against the food and drugs database for Ghana. A bot interface for this application also exists [here](https://m.me/739899899512863).
+As a **team** designed a food and drugs verification system which validates user queries against the food and drugs database for Ghana. A [messenger bot](https://m.me/739899899512863) interface for this application also exists [here](https://m.me/739899899512863).
 
 #### [mKasuwa](https://mkasuwa.herokuapp.com)
 An intelligent platform that connects people to product experts for expert recommendations. (In development)
