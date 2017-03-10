@@ -1,15 +1,15 @@
 # Site settings
 title: Kofi's Blog
 email: taichobill@gmail.com
-description: > 
-	There is gold, and a multitude of
-	rubies: but the lips of knowledge
-	are a precious jewel.
-	- Solomon
-	To attain knowledge, add things
-	everyday. To attain wisdom, 
-	remove things every day
-	- Lao Tzu
+description: >
+   There is gold, and a multitude
+   of rubies: but the lips of knowledge
+   are a precious jewel.          
+   - Solomon 
+   To attain knowledge, add things
+   everyday. To attain wisdom, 
+   remove things every day 
+   - Lao Tzu
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dakbill.github.io" # the base hostname & protocol for your site
 twitter_username: dakbill
