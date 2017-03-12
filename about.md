@@ -73,6 +73,9 @@ During my spare time I also try to experiment with sound engineering and so I le
 #### [Veryfi](https://veryfi.herokuapp.com)
 As a **team** designed a food and drugs verification system which validates user queries against the food and drugs database for Ghana. A [messenger bot](https://m.me/739899899512863) interface for this application also exists [here](https://m.me/739899899512863).
 
+#### [Boafo](https://boafo-52612.appspot.com)
+An AI bot for emergency situations and basic psychotherapy. Interact via [facebook](https://m.me/843149412490388) or [web](https://boafo-52612.appspot.com)(In development)
+
 #### [mKasuwa](https://mkasuwa.herokuapp.com)
 An intelligent platform that connects people to product experts for expert recommendations. (In development)
 
