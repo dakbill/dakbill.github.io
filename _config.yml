@@ -1,16 +1,38 @@
-# Site settings
-title: Kofi's Blog
-email: taichobill@gmail.com
-description: >
-   To attain knowledge, add things
-   everyday. To attain wisdom, 
-   remove things every day 
-   - Lao Tzu
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://dakbill.github.io" # the base hostname & protocol for your site
-twitter_username: dakbill
-github_username:  dakbill
+title: Hello, world! I'm Kofi Dwomoh-Ababio
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+permalink: ":title/"
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
+# Author Settings
+author: Kofi Dwomoh-Ababio # add your name
+company: Sentitech # add your company
+author-img: 00100sPORTRAIT_00100_BURST20190628140501065_COVER.png # add your photo
+about-author: I am a mobile/web developer with a full stack experience. Always hungry to keep learning. # add description
+social-twitter: dakbill # add your Twitter handle
+social-facebook: dakbill.io # add your Facebook handle
+social-github: dakbill # add your Github handle
+social-linkedin: kofi-dwomoh-ababio-06531848 # add your Linkedin handle
+social-email: taichobill@gmail.com # add your Email address
 
-# Build settings
+# Disqus
+discus-identifier: dakbill # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
