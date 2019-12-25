@@ -6,6 +6,9 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: IMG-20190721-WA0047.jpg # Add image post (optional)
 tags: [WHOAMI, Portfolio] # add tag
 ---
+
+I actually added this description to push the table down in order to have a prettier gist in the posts list 
+
 ### Profile
 
 |---
